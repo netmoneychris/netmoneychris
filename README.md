@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Christian</h1>
+  <h1>chris</h1>
   <h3>I'm interested in Full-Stack Web Development, Machine Learning & Automation.</h3>
   <h3>I don't usually write open-source stuff, but when I do I post it on this github.</h3>
 </div>
