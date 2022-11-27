@@ -15,7 +15,7 @@
 
 <div align="center">
   <details close><summary>Contact :</summary>
-    <h4>Twitter : https://instagr.am/netmoneychris</h4>
-    <h4>Instagram : https://twitter.com/netmoneychris</h4>
+    <h4>Twitter https://twitter.com/netmoneychris</h4>
+    <h4>Instagram :  https://instagr.am/netmoneychris</h4>
   </details>
 </div>
